@@ -60,7 +60,7 @@ section{
 }
 
 .btn:hover{
-    background: orangered;
+    background: rgb(61, 60, 59);
 }
 
 .header{
@@ -221,7 +221,7 @@ home styles
 }
 
 .home h1{
-    font-size: 7.5vw;
+    font-size: 4.5vw;
     text-transform: uppercase;
     color: black;
 }
